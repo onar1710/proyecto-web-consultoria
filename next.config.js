@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     domains: ['localhost'],
   },
-  assetPrefix: process.env.NODE_ENV === 'production' ? 'https://leexms.com' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/proyecto-web-consultoria' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/proyecto-web-consultoria' : '',
   trailingSlash: false,
 }
 
