@@ -22,21 +22,6 @@ export default function RootLayout({ children }) {
                 <link rel="preconnect" href="https://fonts.googleapis.com" />
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
                 
-                {/* Critical CSS */}
-                <style dangerouslySetInnerHTML={{
-                    __html: `
-                        /* Critical CSS for above-the-fold content */
-                        body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; }
-                        .banner__one { min-height: 100vh; background-size: cover; background-position: center; position: relative; }
-                        .banner__one-content { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; }
-                        .banner__one-content h1 { font-size: 3rem; margin-bottom: 1rem; }
-                        .banner__one-content p { font-size: 1.2rem; margin-bottom: 2rem; }
-                        .btn { display: inline-block; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: 600; }
-                        .btn-one { background: #007bff; color: white; }
-                        .btn-one:hover { background: #0056b3; color: white; }
-                    `
-                }} />
-                
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" type="image/svg+xml" sizes="any" href="/favicon.svg" />
