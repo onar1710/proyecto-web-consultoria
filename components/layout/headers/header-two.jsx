@@ -63,7 +63,7 @@ const HeaderTwo = () => {
                                     </div>
                                     <div className="header__area-menubar-right-box-contact-info">
                                         <span className="text-four">need Help</span>
-                                        <h6><Link href="mailto:conbix@gmail.com">conbix@gmail.com</Link></h6>
+                                        <h6><Link href="mailto:leexmssrl@gmail.com">leexmssrl@gmail.com</Link></h6>
                                     </div>
                                 </div>
                                 <div className="header__area-menubar-right-responsive-menu menu__bar">

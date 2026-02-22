@@ -11,7 +11,7 @@ const teamData = [
         image: team1,
         position: 'Senior Advisor',
         name: 'Amelia Clover',
-        mail: 'clover@gmail.com',
+        mail: 'leexmssrl@gmail.com',
         phone: '+125 (895) 658 568',
         category: 'founder',
         social_link: [
@@ -25,7 +25,7 @@ const teamData = [
         image: team2,
         position: 'Health Coach',
         name: 'Steve Rhodes',
-        mail: 'rhodes@gmail.com',
+        mail: 'leexmssrl@gmail.com',
         phone: '+125 (131) 456 784',
         category: 'writer',
         social_link: [
@@ -39,7 +39,7 @@ const teamData = [
         image: team3,
         position: 'Underwriter',
         name: 'Grace Elizabeth',
-        mail: 'elizabeth@gmail.com',
+        mail: 'leexmssrl@gmail.com',
         phone: '+125 (544) 789 567',
         category: 'founder',
         social_link: [
@@ -53,7 +53,7 @@ const teamData = [
         image: team4,
         position: 'Claims Adjuster',
         name: 'Michael James',
-        mail: 'james@gmail.com',
+        mail: 'leexmssrl@gmail.com',
         phone: '+125 (894) 489 947',
         category: 'writer',
         social_link: [
@@ -67,7 +67,7 @@ const teamData = [
         image: team5,
         position: 'Risk Analyst',
         name: 'Samuel Thomas',
-        mail: 'thomas@gmail.com',
+        mail: 'leexmssrl@gmail.com',
         phone: '+125 (974) 957 567',
         category: 'manager',
         social_link: [
@@ -81,7 +81,7 @@ const teamData = [
         image: team6,
         position: 'Sales Agent',
         name: 'Balm Bayrak',
-        mail: 'bayrak@gmail.com',
+        mail: 'leexmssrl@gmail.com',
         phone: '+125 (374) 421 941',
         category: 'designer',
         social_link: [

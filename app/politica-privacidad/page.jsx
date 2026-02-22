@@ -65,7 +65,7 @@ const PrivacyPolicy = () => {
                                     <h4 className="mb-25">6. Contacto</h4>
                                     <p>Para ejercer sus derechos o tener preguntas sobre esta política de privacidad, contacte con nosotros:</p>
                                     <ul>
-                                        <li>Email: info@leexms.com</li>
+                                        <li>Email: leexmssrl@gmail.com</li>
                                         <li>Teléfono: +1 (809) 999-0083</li>
                                         <li>Dirección: Santo Domingo, República Dominicana</li>
                                     </ul>

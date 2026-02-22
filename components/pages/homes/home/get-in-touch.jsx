@@ -86,7 +86,7 @@ const GetInTouch = () => {
                                 </div>
                                 <div className="help__area-item-info">
                                     <span className="text-three">Email drop Us</span>
-                                    <h5><Link href="mailto:info@leexms.com">info@leexms.com</Link></h5>
+                                    <h5><Link href="mailto:leexmssrl@gmail.com">leexmssrl@gmail.com</Link></h5>
                                 </div>
                             </div>
                         </div>

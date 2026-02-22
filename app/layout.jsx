@@ -1,7 +1,6 @@
 "use client"
 import { useEffect } from 'react';
 import "./globals.css";
-import SwitchTab from '@/components/pages/common/dark-light';
 import WhatsAppButton from '@/components/pages/common/whatsapp-button';
 import CookieBanner from '@/components/pages/common/cookie-banner';
 import SEOMetadata from '@/components/seo/metadata-generator';
@@ -10,6 +9,8 @@ import { generateOrganizationSchema } from '@/components/seo/schema-generator';
 export default function RootLayout({ children }) {
     useEffect(() => {
         require('bootstrap/dist/js/bootstrap.min.js');
+        // Forzar modo claro permanente
+        document.body.classList.remove('dark-mode');
     }, []);
 
     const organizationSchema = generateOrganizationSchema();
@@ -28,7 +29,6 @@ export default function RootLayout({ children }) {
                 />
             </head>
             <body>
-                <SwitchTab />
                 {children}
                 <WhatsAppButton />
                 <CookieBanner />

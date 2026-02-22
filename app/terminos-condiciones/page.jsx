@@ -59,7 +59,7 @@ const TermsAndConditions = () => {
                                     <h4 className="mb-25">10. Contacto</h4>
                                     <p>Para preguntas sobre estos términos y condiciones, contacte con nosotros:</p>
                                     <ul>
-                                        <li>Email: info@leexms.com</li>
+                                        <li>Email: leexmssrl@gmail.com</li>
                                         <li>Teléfono: +1 (809) 999-0083</li>
                                         <li>Dirección: Santo Domingo, República Dominicana</li>
                                     </ul>

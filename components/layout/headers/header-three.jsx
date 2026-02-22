@@ -25,7 +25,7 @@ const HeaderThree = () => {
                             <div className="topbar__three-right t-right lg-t-center">
                                 <ul>
                                     <li><a href="tel:(+107)555-0133"><i className="fas fa-phone-alt"></i>(+107) 555-0133</a></li>
-                                    <li><a href="mailto:conbix@gmail.com"><i className="fas fa-envelope"></i>conbix@gmail.com</a></li>
+                                    <li><a href="mailto:leexmssrl@gmail.com"><i className="fas fa-envelope"></i>leexmssrl@gmail.com</a></li>
                                 </ul>
                             </div>
                         </div>

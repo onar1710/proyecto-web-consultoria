@@ -1,6 +1,6 @@
 import image1 from "../../public/imagenes/image-home/consultaria-2.jpg";
 import image2 from "../../public/imagenes/image-home/consultaria-4.jpg";
-import image3 from "../../public/imagenes/image-home/consultaria.jpg";
+import image3 from "../../public/linceciado-lergio.jpg";
 import image4 from "../../public/imagenes/image-home/consultoria-5.jpg";
 import image5 from "../../public/imagenes/image-home/consultoria-7.jpg";
 import image6 from "../../public/imagenes/image-home/consultoria-8.jpg";

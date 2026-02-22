@@ -7,7 +7,7 @@ import ScrollToTop from "@/components/pages/common/scroll/scroll-to-top";
 import BreadCrumb from "@/components/pages/common/breadcrumb";
 
 const CookiePolicy = () => {
-    const cookieBannerBg = "/imagenes/image-home/consultaria.jpg";
+    const cookieBannerBg = "/linceciado-lergio.jpg";
     return (
         <>
             <SEO pageTitle="Política de Cookies" />
@@ -82,7 +82,7 @@ const CookiePolicy = () => {
                                     <h4 className="mb-25">9. Contacto</h4>
                                     <p>Para preguntas sobre nuestra política de cookies, contacte con nosotros:</p>
                                     <ul>
-                                        <li>Email: info@leexms.com</li>
+                                        <li>Email: leexmssrl@gmail.com</li>
                                         <li>Teléfono: +1 (809) 999-0083</li>
                                         <li>Dirección: Santo Domingo, República Dominicana</li>
                                     </ul>

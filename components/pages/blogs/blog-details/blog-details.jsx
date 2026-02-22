@@ -21,7 +21,7 @@ const BlogSingleMain = ({singleData}) => {
                                     <div className="blog__details-left-meta-left">
                                         <div className="author">
                                             <div className="author-avatar">
-                                                <img src="../assets/img/team/team-3.jpg" alt="avatar" />
+                                                <img src="/linceciado-lergio.jpg" alt="avatar" />
                                             </div>
                                         <div className="author-info">
                                                 <span>Autor</span>
@@ -73,7 +73,7 @@ const BlogSingleMain = ({singleData}) => {
                                 </div>
                                 <div className="blog__details-left-author">
                                     <div className="blog__details-left-author-image">
-                                        <img src="../assets/img/avatar/support.jpg" alt="avatar" />
+                                        <img src="/linceciado-lergio.jpg" alt="avatar" />
                                     </div>
                                     <div className="blog__details-left-author-content">
                                         <h6>Licenciado Lergio</h6>

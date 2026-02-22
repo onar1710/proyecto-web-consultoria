@@ -29,7 +29,7 @@ const LegalNotice = () => {
                                         <li><strong>RNC:</strong> [Número de Registro Nacional de Contribuyentes]</li>
                                         <li><strong>Dirección:</strong> Santo Domingo, República Dominicana</li>
                                         <li><strong>Teléfono:</strong> +1 (809) 999-0083</li>
-                                        <li><strong>Email:</strong> info@leexms.com</li>
+                                        <li><strong>Email:</strong> leexmssrl@gmail.com</li>
                                         <li><strong>Sitio web:</strong> www.leexms.com</li>
                                     </ul>
                                     
@@ -72,7 +72,7 @@ const LegalNotice = () => {
                                     <h4 className="mb-25">10. Contacto Legal</h4>
                                     <p>Para cualquier asunto legal, contacte con nuestro departamento legal:</p>
                                     <ul>
-                                        <li>Email: legal@leexms.com</li>
+                                        <li>Email: leexmssrl@gmail.com</li>
                                         <li>Teléfono: +1 (809) 999-0084</li>
                                         <li>Dirección: Santo Domingo, República Dominicana</li>
                                     </ul>
@@ -80,7 +80,7 @@ const LegalNotice = () => {
                                     <h4 className="mb-25">11. Quejas y Reclamaciones</h4>
                                     <p>Si tiene alguna queja o reclamación sobre nuestros servicios, puede contactarnos a través de:</p>
                                     <ul>
-                                        <li>Email: complaints@leexms.com</li>
+                                        <li>Email: leexmssrl@gmail.com</li>
                                         <li>Teléfono: +1 (809) 999-0083</li>
                                         <li>Formulario de contacto en nuestro sitio web</li>
                                     </ul>

@@ -35,7 +35,7 @@ const HeaderOne = ({variant}) => {
                         </div>
                         <div className="col-xl-7 col-md-6">
                             <div className="top__bar-right">
-                                <Link href="mailto:info@leexms.com"><i className="fas fa-envelope"></i>info@leexms.com</Link>
+                                <Link href="mailto:leexmssrl@gmail.com"><i className="fas fa-envelope"></i>leexmssrl@gmail.com</Link>
                                 <div className="top__bar-right-social">
                                     <Social />
                                 </div>

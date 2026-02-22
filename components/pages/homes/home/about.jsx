@@ -6,7 +6,7 @@ import image1 from "../../../../public/imagenes/image-home/consultaria-1.jpg";
 import image2 from "../../../../public/imagenes/image-home/imagen-largconsultoria.jpg";
 import image3 from "../../../../public/imagenes/image-home/consultaria-2.jpg";
 import image4 from "../../../../public/imagenes/image-home/consultaria-4.jpg";
-import avatar from "../../../../public/imagenes/image-home/consultaria.jpg";
+import avatar from "../../../../public/linceciado-lergio.jpg";
 import Count from "../../common/count";
 import Link from "next/link";
 

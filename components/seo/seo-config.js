@@ -16,7 +16,7 @@ export const SEO_CONFIG = {
   },
   contact: {
     phone: "+1-809-000-0000",
-    email: "info@leexms.com"
+    email: "leexmssrl@gmail.com"
   },
   social: {
     facebook: "https://www.facebook.com/leexms",

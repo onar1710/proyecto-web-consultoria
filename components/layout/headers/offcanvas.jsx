@@ -30,7 +30,7 @@ const SideBar = ({ isOpen, setIsOpen }) => {
                         </div>
                         <div className="header__area-menubar-right-box-sidebar-popup-contact-item-content">
                             <span>Correo Rápido</span>
-                            <h6><a href="mailto:info@leexms.com">info@leexms.com</a></h6>
+                            <h6><a href="mailto:leexmssrl@gmail.com">leexmssrl@gmail.com</a></h6>
                         </div>
                     </div>
                     <div className="header__area-menubar-right-box-sidebar-popup-contact-item">

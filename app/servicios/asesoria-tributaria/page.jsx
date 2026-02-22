@@ -9,7 +9,7 @@ const AsesoriaTributaria = () => {
     if (!serviceDetails) {
         return router.push("/404-error");
     }
-    const serviceBannerBg = "/imagenes/image-home/consultaria.jpg";
+    const serviceBannerBg = "/linceciado-lergio.jpg";
     return (
         <>
             <ServicesSingle serviceDetails={serviceDetails} bgImage={serviceBannerBg} />
