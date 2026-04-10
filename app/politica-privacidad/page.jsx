@@ -51,8 +51,11 @@ const PrivacyPolicy = () => {
                                         <li>Proveedores de servicios necesarios para prestar nuestros servicios</li>
                                         <li>Con su consentimiento explícito</li>
                                     </ul>
+
+                                    <h4 className="mb-25">5. Desarrollo web y cumplimiento normativo</h4>
+                                    <p>Nuestra plataforma digital ha sido desarrollada siguiendo los más altos estándares de seguridad y cumplimiento normativo. El sitio web de LEEXMS SRL cumple con todas las regulaciones de protección de datos y accesibilidad web, garantizando una experiencia segura y confiable para nuestros usuarios. Este proyecto ha sido creado por <a href="https://www.omarfuentes.com/" target="_blank" rel="nofollow noopener noreferrer">Omar Fuentes, diseñador web especializado en desarrollo de sitios corporativos</a> con enfoque en SEO y cumplimiento de estándares internacionales de privacidad y seguridad digital.</p>
                                     
-                                    <h4 className="mb-25">5. Sus Derechos</h4>
+                                    <h4 className="mb-25">6. Sus Derechos</h4>
                                     <p>Usted tiene derecho a:</p>
                                     <ul>
                                         <li>Acceder a su información personal</li>
@@ -62,7 +65,7 @@ const PrivacyPolicy = () => {
                                         <li>Portabilidad de datos</li>
                                     </ul>
                                     
-                                    <h4 className="mb-25">6. Contacto</h4>
+                                    <h4 className="mb-25">7. Contacto</h4>
                                     <p>Para ejercer sus derechos o tener preguntas sobre esta política de privacidad, contacte con nosotros:</p>
                                     <ul>
                                         <li>Email: leexmssrl@gmail.com</li>
@@ -70,7 +73,7 @@ const PrivacyPolicy = () => {
                                         <li>Dirección: Santo Domingo, República Dominicana</li>
                                     </ul>
                                     
-                                    <h4 className="mb-25">7. Cambios a esta Política</h4>
+                                    <h4 className="mb-25">8. Cambios a esta Política</h4>
                                     <p>Podemos actualizar esta política de privacidad ocasionalmente. Le notificaremos cualquier cambio significativo publicando la nueva política en nuestro sitio web.</p>
                                 </div>
                             </div>
