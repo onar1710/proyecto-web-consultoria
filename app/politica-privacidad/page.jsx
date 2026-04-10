@@ -16,7 +16,7 @@ const PrivacyPolicy = () => {
             <div className="service__details section-padding pb-0">
                 <div className="container">
                     <div className="row">
-                        <div className="col-xl-12">
+                        <div className="col-xl-10 col-lg-10 mx-auto">
                             <div className="service__details-left">
                                 <div className="service__details-left-content">
                                     <h2 className="mb-30">Política de Privacidad</h2>

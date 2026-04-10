@@ -115,7 +115,7 @@ const FooterThree = () => {
                     <div className="container">
                         <div className="row">
                             <div className="col-xl-12">
-                                <p>Copyright 2024  <Link href="/">Leexms</Link> - Todos los derechos reservados | Este proyecto web de consultoría ha sido desarrollado por <Link href="https://omarfuentes.com" target="_blank" rel="dofollow">Omar Fuentes</Link></p>
+                                <p>Copyright 2024  <Link href="/">Leexms</Link> - Todos los derechos reservados</p>
                             </div>
                         </div>
                     </div>
