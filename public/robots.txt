@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Allow all search engines to crawl the entire site
+# No restrictions - full access granted
+
+Sitemap: https://leexms.com/sitemap.xml
