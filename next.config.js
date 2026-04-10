@@ -7,6 +7,9 @@ const nextConfig = {
   assetPrefix: '',
   basePath: '',
   trailingSlash: false,
+  generateBuildId: async () => {
+    return `build-${new Date().getTime()}`
+  }
 }
 
 module.exports = nextConfig
